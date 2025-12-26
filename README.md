@@ -6,7 +6,7 @@
 <ol>Vanshika Agrawal</ol>
 <ol>Muskan Sukhijiya</ol>
 <ol>Abhradwip Lala</ol>
-<ol>Shivangee Gupta</ol>
+<ol>Shivangee Gupta</ol><hr>
 <h4>An App for the Malware Detection and Extraction of File 
 Content in Isolated Window</h4>
 <p>This project presents the Threatlyzer app, an 
