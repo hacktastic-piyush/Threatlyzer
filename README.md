@@ -23,3 +23,4 @@ dataset. This approach not only provides a valuable layer of
 proactive defense against evolving threats but also enables safe, 
 deep inspection of otherwise inaccessible data within infected 
 files. </p>
+<img src ="images/Screenshot 2025-12-26 204502.png"><br>
